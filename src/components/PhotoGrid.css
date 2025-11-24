@@ -1,6 +1,6 @@
 .photo-grid { display:flex; flex-wrap:wrap; gap:0.5rem; }
-.photo-item { flex:1 1 calc(25% - 0.5rem); max-width:25%; cursor:pointer; position:relative; }
-.photo-item img { width:100%; height:auto; display:block; border-radius:4px; object-fit:cover; }
+.photo-item { flex:1 1 calc(25% - 0.5rem); max-width:25%; cursor:pointer; position:relative; aspect-ratio:374 / 281; overflow:hidden; border-radius:4px; }
+.photo-item img { width:100%; height:100%; display:block; object-fit:cover; }
 @media (max-width:900px){ .photo-item { flex:1 1 calc(33.33% - 0.5rem); max-width:33.33%; } }
 @media (max-width:650px){ .photo-item { flex:1 1 calc(50% - 0.5rem); max-width:50%; } }
 @media (max-width:420px){ .photo-item { flex:1 1 100%; max-width:100%; } }
