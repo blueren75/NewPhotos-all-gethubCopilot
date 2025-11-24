@@ -1,0 +1,12 @@
+.nav-bar { background:#add8e6; width:100%; }
+.nav-inner { max-width:2000px; margin:0 auto; display:flex; align-items:center; justify-content:space-between; padding:0.4rem 0.75rem; }
+.logo-wrap { display:flex; align-items:center; }
+.logo { height:40px; width:auto; display:block; }
+.links { display:flex; gap:0.5rem; }
+.btn { background:#003366; color:#fff; text-decoration:none; padding:0.45rem 0.85rem; border-radius:3px; font-size:0.9rem; font-weight:600; white-space:nowrap; }
+.btn.active { background:#d40000; color:#fff; }
+@media (max-width:500px){
+  .links { gap:0.35rem; }
+  .btn { padding:0.4rem 0.6rem; font-size:0.75rem; }
+  .logo { height:34px; }
+}

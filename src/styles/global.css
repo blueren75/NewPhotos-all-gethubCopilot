@@ -1,0 +1,8 @@
+html,body { margin:0; padding:0; font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,sans-serif; background:#f7f9fb; color:#111; }
+.app-container { max-width:2000px; margin:0 auto; padding:0 0.75rem 2rem; box-sizing:border-box; }
+.page-header { text-align:center; padding:0.75rem 0 0.5rem; margin:0 0 0.75rem; }
+.page-header h1 { margin:0; font-size:clamp(1.4rem,3vw,2.25rem); }
+main { min-height:60vh; }
+.page-footer { text-align:center; padding:1.25rem 0 0.75rem; font-size:0.75rem; opacity:0.8; }
+img { -webkit-user-select:none; user-select:none; }
+@media (max-width:395px){ .app-container { padding:0 0.5rem 1.5rem; } }

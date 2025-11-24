@@ -21,7 +21,6 @@ export const photoSets = {
     { photo: "myac/RV8.JPG", displayName: "RV8" },
     { photo: "myac/TbirdII.jpg", displayName: "TbirdII" },
     { photo: "myac/Zenith.JPG", displayName: "Zenith" },
-    { photo: "myac/Zenithx.JPG", displayName: "Zenithx" },
   ],
   milAC: [
     { photo: "milac/B57.jpg", displayName: "B57" },
