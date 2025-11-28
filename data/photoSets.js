@@ -4,15 +4,15 @@
 export const photoSets = {
   home: [{ photo: "Collegedale AP.jpg", displayName: "Collegedale AP" }],
   myAC: [
-    { photo: "myac/EAAbiplane.webp", displayName: "EAA Biplane" },
+    { photo: "myac/EAAbiplane.jpg", displayName: "EAA Biplane" },
     { photo: "myac/N43AZ.JPG", displayName: "Van's RV-3 N43AZ" },
     { photo: "myac/A7GCBC.jpg", displayName: " Citabria Explorer 7GCBC" },
-    { photo: "myac/Cessna140.jpg", displayName: "Cessna 140" },
+    { photo: "myac/Cessna 140.jpg", displayName: "Cessna 140" },
     { photo: "myac/C182.jpg", displayName: "Cessna 182 Skylane" },
     { photo: "myac/KeppernanEZ.jpg", displayName: "Keppernan VeriEZ" },
     { photo: "myac/Harmon.JPG", displayName: "Harmon Rocket" },
     { photo: "myac/Minmax.JPG", displayName: "Team MiniMax" },
-    { photo: "myac/Musketeer.jpeg", displayName: "Beechcraft Musketeer" },
+    { photo: "myac/Musketeer.jpg", displayName: "Beechcraft Musketeer" },
     { photo: "myac/N590.JPG", displayName: "Van's RV-3 N590" },
     { photo: "myac/N7354M.JPG", displayName: " Cessna 210 Centurion" },
     { photo: "myac/RonWhiteEZ.JPG", displayName: "Ron White VariEZ" },

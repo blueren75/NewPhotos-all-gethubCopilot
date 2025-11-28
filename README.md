@@ -26,3 +26,5 @@ npm run preview
 - Ensure `public/airplane.png` exists for the logo.
 - Image paths rely on Vite static serving from `public`.
 - Routing uses `react-router-dom`.
+
+all-ai-generated-my-aircraft.netlify.app
